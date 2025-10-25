@@ -1,4 +1,3 @@
-##C’est ton générateur de dataset (placements aléatoires + calcul des coûts)
 import random
 import math
 import csv
